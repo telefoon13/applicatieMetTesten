@@ -1,0 +1,7 @@
+
+.gitignore
+.idea/
+applicatieMetTesten.iml
+src/main/resources/
+target/
+web/
